@@ -5,7 +5,7 @@
 # Mwangaza OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/Mwangaza-OS/main/assets/MwangazaOS_DVD_v1.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/tree/main/assets" width="420">
 </p>
 
 
