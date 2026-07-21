@@ -71,7 +71,7 @@ python CodexHiddenWind_v1.3.py
 Le projet utilise le Codex Builder bientôt disponible :
 
 ```bash
-# Avec le convertisseur Codex inclus
+# Avec le convertisseur Codex bientôt disponible
 python py_to_exe_converter_v3.py
 
 # Ou en ligne de commande
