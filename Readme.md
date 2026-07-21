@@ -5,7 +5,7 @@
 # CodexHiddenWind v1.3
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/banner.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/CodexHiddenWind_box.png" width="420">
 </p>
 
 
