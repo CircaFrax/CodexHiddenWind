@@ -5,7 +5,7 @@
 # Mwangaza OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/assets/banner.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/banner.png" width="420">
 </p>
 
 
