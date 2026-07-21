@@ -1,6 +1,15 @@
-# CodexHiddenWind v1.3
+<p align="center">
+  <img src="https://circafrax.github.io/assets/banniere.png" width="500">
+</p>
 
-![Banner](banner.png)
+# Mwangaza OS
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CircaFrax/Mwangaza-OS/main/assets/MwangazaOS_DVD_v1.png" width="420">
+</p>
+
+
+# CodexHiddenWind v1.3
 
 > **La vie privée de vos photos en un clic. 100% portable, 100% offline.**
 
