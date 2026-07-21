@@ -41,10 +41,11 @@ Chaque photo que vous partagez contient des métadonnées cachées : modèle d'a
 ```
 CodexHiddenWind_Portable/
 ├── CodexHiddenWind.exe
-└── ressources/
-    └── exiftool/
-        └── exiftool.exe
-```
+└── _DOC/
+    ├── LEGAL_NOTICE.md
+    ├── LICENCE_CircaFrax.txt
+    ├── LICENCE_ExifTool.txt
+    └── LICENCES_COMBINEES.txt
 
 Aucune installation. Fonctionne sur clé USB.
 
@@ -61,13 +62,13 @@ python CodexHiddenWind_v1.3.py
 ### 📖 Utilisation
 1. Cliquez sur **"Ajouter Dossier / Fichiers"** ou glissez-déposez
 2. Cochez les photos à nettoyer
-3. Cliquez **NETTOYER**
-4. Les originaux sont écrasés sans métadonnées, `Créé le` conservé.
+3. Cliquez **NETTOYER**, selectionnez le dossier de destination
+4. Les originaux sont conservés, les copies apparaissent sans métadonnées dans le dossier de destination.
 
 ---
 
 ### 🛠️ Build .exe vous-même
-Le projet utilise le Codex Builder inclus :
+Le projet utilise le Codex Builder bientôt disponible :
 
 ```bash
 # Avec le convertisseur Codex inclus
@@ -95,7 +96,7 @@ CodexHiddenWind_Code/
 ### 🗺️ Roadmap
 - [x] v1.3 - Nettoyage EXIF / XMP / GPS + build portable
 - [ ] v1.4 - Colonne "Appareil photo" + tri + export CSV
-- [ ] v1.5 - Mode "Copie nettoyée" (garde l'original)
+- [ ] v1.5 - Design figé
 - [ ] v2.0 - CodexArchive & CodexView (suite Codex)
 
 ### 📄 Licence
