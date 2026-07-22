@@ -60,8 +60,8 @@ Aucune installation. Fonctionne sur clé USB.
 ### 📁 Structure
 ```
 CodexHiddenWind/
-└───CodexGenQrcode.exe
-    ├───exiftools
+└───CodexHiddenWind.exe
+    ├───exiftool.exe
     └───Guide.md
 ```
 
