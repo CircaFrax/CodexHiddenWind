@@ -58,14 +58,12 @@ Aucune installation. Fonctionne sur clé USB.
 
 
 ### 📁 Structure
----
-CodexHiddenWind_Code/
-├── CodexHiddenWind_v1.3.py
-├── README.md
-├── ressources/
-│   └── exiftool/exiftool.exe
-└── données/ (ignoré)
----
+```
+CodexHiddenWind/
+└───CodexGenQrcode.exe
+    ├───exiftools
+    └───Guide.md
+```
 
 ### 🔒 Confidentialité
 - **Zéro réseau** : tout se passe sur votre PC
