@@ -51,7 +51,7 @@ Aucune installation. Fonctionne sur clé USB.
 
 #### Version Python
 ```bash
-git clone https://github.com/ton-pseudo/CodexHiddenWind.git
+git clone https://github.com/CircaFrax/CodexHiddenWind.git
 cd CodexHiddenWind
 pip install tkinterdnd2
 python CodexHiddenWind_v1.3.py
