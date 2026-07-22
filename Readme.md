@@ -45,10 +45,9 @@ CodexHiddenWind_Portable/
     ├── LICENCE_CircaFrax.txt
     ├── LICENCE_ExifTool.txt
     └── LICENCES_COMBINEES.txt
+```
 
 Aucune installation. Fonctionne sur clé USB.
-
----
 
 ### 📖 Utilisation
 1. Cliquez sur **"Ajouter Dossier / Fichiers"** ou glissez-déposez
@@ -59,14 +58,14 @@ Aucune installation. Fonctionne sur clé USB.
 
 
 ### 📁 Structure
-
+---
 CodexHiddenWind_Code/
 ├── CodexHiddenWind_v1.3.py
 ├── README.md
 ├── ressources/
 │   └── exiftool/exiftool.exe
 └── données/ (ignoré)
-
+---
 
 ### 🔒 Confidentialité
 - **Zéro réseau** : tout se passe sur votre PC
@@ -81,5 +80,5 @@ CodexHiddenWind_Code/
 ### 📄 Licence
 Code MIT pour l'interface. ExifTool conserve sa propre licence.
 
----
+
 **Fait partie de la suite Codex** — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
