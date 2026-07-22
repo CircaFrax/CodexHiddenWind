@@ -29,7 +29,6 @@ Chaque photo que vous partagez contient des métadonnées cachées : modèle d'a
 - **Portable** : un seul `.exe`, pas de registre, pas de cloud
 - **Rapide** : barre de progression temps réel, multi-threadé
 
----
 
 ### 🚀 Installation
 
@@ -57,17 +56,17 @@ Aucune installation. Fonctionne sur clé USB.
 3. Cliquez **NETTOYER**, selectionnez le dossier de destination
 4. Les originaux sont conservés, les copies apparaissent sans métadonnées dans le dossier de destination.
 
----
+
 
 ### 📁 Structure
-```
+
 CodexHiddenWind_Code/
 ├── CodexHiddenWind_v1.3.py
 ├── README.md
 ├── ressources/
 │   └── exiftool/exiftool.exe
 └── données/ (ignoré)
-```
+
 
 ### 🔒 Confidentialité
 - **Zéro réseau** : tout se passe sur votre PC
