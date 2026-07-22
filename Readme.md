@@ -49,14 +49,6 @@ CodexHiddenWind_Portable/
 
 Aucune installation. Fonctionne sur clé USB.
 
-#### Version Python
-```bash
-git clone https://github.com/CircaFrax/CodexHiddenWind.git
-cd CodexHiddenWind
-pip install tkinterdnd2
-python CodexHiddenWind_v1.3.py
-```
-
 ---
 
 ### 📖 Utilisation
@@ -66,17 +58,6 @@ python CodexHiddenWind_v1.3.py
 4. Les originaux sont conservés, les copies apparaissent sans métadonnées dans le dossier de destination.
 
 ---
-
-### 🛠️ Build .exe vous-même
-Le projet utilise le Codex Builder bientôt disponible :
-
-```bash
-# Avec le convertisseur Codex bientôt disponible
-python py_to_exe_converter_v3.py
-
-# Ou en ligne de commande
-pyinstaller --noconsole --name CodexHiddenWind --add-data "ressources;ressources" CodexHiddenWind_v1.3.py
-```
 
 ### 📁 Structure
 ```
@@ -90,7 +71,6 @@ CodexHiddenWind_Code/
 
 ### 🔒 Confidentialité
 - **Zéro réseau** : tout se passe sur votre PC
-- **Open Source** : code lisible, vérifiable
 - `exiftool.exe` by Phil Harvey (Artistic License) - embarqué localement
 
 ### 🗺️ Roadmap
