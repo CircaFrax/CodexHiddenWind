@@ -34,24 +34,6 @@ Chaque photo que vous partagez contient des métadonnées cachées : modèle d'a
 - **Portable** : un seul `.exe`, pas de registre, pas de cloud
 - **Rapide** : barre de progression temps réel, multi-threadé
 
-
-### 🚀 Installation
-
-#### Version portable (recommandé)
-1. Téléchargez `CodexHiddenWind_v1.3_Portable.zip` dans les Releases
-2. Dézippez
-3. Lancez `CodexHiddenWind.exe`
-
-```
-CodexHiddenWind_Portable/
-├── CodexHiddenWind.exe
-└── _DOC/
-    ├── LEGAL_NOTICE.md
-    ├── LICENCE_CircaFrax.txt
-    ├── LICENCE_ExifTool.txt
-    └── LICENCES_COMBINEES.txt
-```
-
 Aucune installation. Fonctionne sur clé USB.
 
 ### 📖 Utilisation
@@ -66,8 +48,9 @@ Aucune installation. Fonctionne sur clé USB.
 ```
 CodexHiddenWind/
 └───CodexHiddenWind.exe
-    ├───exiftool.exe
-    └───Guide.md
+    ├───LICENCE.md
+    ├───LICENSE.md
+    └───THIRD_PARTY_LICENSES.md
 ```
 
 ### 🔒 Confidentialité
