@@ -76,7 +76,7 @@ CodexHiddenWind/
 - [ ] v2.0 - CodexArchive & CodexView (suite Codex)
 
 ### 📄 Licence
-Code MIT pour l'interface. ExifTool conserve sa propre licence.
+CircaFrax Proprietary Freeware
 
 ---
 **Fait partie de la suite Codex** — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
