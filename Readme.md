@@ -8,7 +8,8 @@
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexHiddenWind/main/assets/CodexHiddenWind_box.png" width="420">
 </p>
 
-
+### ⬇️ [Télécharger CodexHiddenWind v1.3 (Windows)](https://github.com/CircaFrax/CodexHiddenWind/releases/download/v1.3/CodexHiddenWind_v1.3.zip)
+`SHA256: A_REMPLACER_APRES_ZIP`
 
 > **La vie privée de vos photos en un clic. 100% portable, 100% offline.**
 
