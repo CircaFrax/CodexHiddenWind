@@ -16,7 +16,6 @@
 [![Portable](https://img.shields.io/badge/Portable-Oui-00d4aa?style=flat-square)]()
 [![Offline](https://img.shields.io/badge/Offline-100%25-264f78?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)]()
 
 ### Le problème
 Chaque photo que vous partagez contient des métadonnées cachées : modèle d'appareil, GPS, date, logiciel... Facebook, WhatsApp ou votre employeur peuvent tout lire.
