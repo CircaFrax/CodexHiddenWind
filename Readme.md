@@ -20,6 +20,10 @@
 ### Le problème
 Chaque photo que vous partagez contient des métadonnées cachées : modèle d'appareil, GPS, date, logiciel... Facebook, WhatsApp ou votre employeur peuvent tout lire.
 
+## Aperçu
+<img src="assets/Screenshot_v2.3.1.png" width="650">
+*Menu à gauche, prévisualisation live à droite – 100% offline*
+
 ### La solution Codex
 **CodexHiddenWind** supprime tout, localement, sans installer quoi que ce soit.
 
