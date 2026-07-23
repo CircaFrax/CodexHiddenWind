@@ -9,7 +9,7 @@
 </p>
 
 ### ⬇️ [Télécharger CodexHiddenWind v1.3 (Windows)](https://github.com/CircaFrax/CodexHiddenWind/releases/download/v1.3/CodexHiddenWind_v1.3.zip)
-`SHA256: A_REMPLACER_APRES_ZIP`
+`SHA256: 35b5ee627cb3c141f439a99b57fe9803c6437171b31ca61125e70c80e457da75`
 
 > **La vie privée de vos photos en un clic. 100% portable, 100% offline.**
 
