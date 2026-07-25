@@ -22,7 +22,7 @@ Chaque photo que vous partagez contient des métadonnées cachées : modèle d'a
 
 ## Aperçu
 <img src="assets/Screenshot_v2.3.1.png" width="650">
-*Menu en hat, prévisualisation apres clic en dessous – 100% offline*
+*Menu en haut, prévisualisation apres clic en dessous – 100% offline*
 
 ### La solution Codex
 **CodexHiddenWind** supprime tout, localement, sans installer quoi que ce soit.
